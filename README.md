@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/projects.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/projects) or the [upstream repository](https://github.com/ernestdefoe/projects).
 
-**19** versions archived · Latest: [`v1.5.3`](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.5.3) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`v1.5.4`](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.5.4) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.0.0) |
-| `1.0.1` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.0.1) |
-| `1.0.2` | 2026-06-09 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.0.2) |
-| `v1.1.0` | 2026-06-27 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.1.0) |
-| `v1.2.0` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.2.0) |
-| `v1.2.1` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.2.1) |
-| `v1.2.2` | 2026-06-28 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.2.2) |
-| `v1.3.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.3.0) |
-| `v1.3.1` | 2026-07-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.3.1) |
-| `v1.4.0` | 2026-07-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-projects/tree/archive/v1.4.0) |
-
-[View all 19 versions](https://github.com/flarchive/ernestdefoe-projects/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-projects.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-projects.json)
 
